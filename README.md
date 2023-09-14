@@ -1,6 +1,5 @@
-# NBA-PLAYERS-AND-TEAMS-
-# NBA Player and Team Analysis
-![image](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-/assets/144076409/7ac0c63d-cd30-44bd-b11a-211afb7ab332)
+# NBA Players and Team Analysis
+![Alt Text](https://i.pinimg.com/originals/05/06/5e/05065e5da1c33781f2e3a2b3cec78a06.gif)
 
 # Problem Statement
 
