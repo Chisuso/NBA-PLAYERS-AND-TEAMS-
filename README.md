@@ -9,6 +9,15 @@ The primary aim of this project is to provide a rigorous, data-driven assessment
 
 The project's genesis stemmed from a genuine curiosity to gain a deeper understanding of the NBA's intricacies, foster informed discussions among fellow enthusiasts, and perhaps, put an end to the spirited debates with my brothers regarding NBA teams, players, and their statistics.
 
+# Contents of this Repository
+1. [Complete Project(Python code, output and deductions)](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-/blob/main/Project%201-%20NBA_Player%2BTeam_Analysis.pdf)
+
+2. [Breakdown of Findings for Non-Technical Audiences](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-/blob/main/TLDR_%20NBA%20Players%20%26%20Teams.pdf)
+
+3. [Python code only](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-#:~:text=3%20minutes%20ago-,main.py,-Add%20files%20via)
+
+4. [Overview(Read.me)](https://github.com/Chisuso/NBA-PLAYERS-AND-TEAMS-/blob/main/README.md)
+
 # Dataset
 
 To undertake this comprehensive analysis, I have utilized a meticulously curated dataset containing detailed NBA player statistics for the 2022-23 season. This dataset encompasses a wealth of information, including but not limited to:
