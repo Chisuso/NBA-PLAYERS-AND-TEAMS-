@@ -1,4 +1,4 @@
-# NBA Players and Team Analysis
+# NBA Players and Teams Analysis
 ![Alt Text](https://i.pinimg.com/originals/05/06/5e/05065e5da1c33781f2e3a2b3cec78a06.gif)
 
 # Problem Statement
